@@ -16,6 +16,23 @@ dd{
   text-align: center;
 }
 
+.js #contact{
+  position:absolute;
+  width: inherit;
+  top:140px;
+  display: none;
+}
+
+.close{
+  position: absolute;
+  right: 10px;
+  top: 10px;
+
+  font-weight: bold;
+  font-family: sans-serif;
+  cursor: pointer;
+}
+
 /*!
  * Bootstrap Responsive v2.3.2
  *

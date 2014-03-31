@@ -1,5 +1,5 @@
 
-n(){
+(function(){
 
 	var pageTitle = document.title; //HTML PAGE TITLE
 	var pageUrl = location.href; //Location of the page
